@@ -1,0 +1,2 @@
+2018/08/10 16:11:13 [error] 8#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.1:9000", host: "localhost"
+2018/08/10 16:11:13 [error] 8#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.17.0.1:9000", host: "localhost"
